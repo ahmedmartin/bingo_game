@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "643369610416",
+    "firebase_url": "https://bingo-63fbf.firebaseio.com",
+    "project_id": "bingo-63fbf",
+    "storage_bucket": "bingo-63fbf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643369610416:android:28e1b99251c8c7ba",
+        "android_client_info": {
+          "package_name": "com.ahmed.martin.bingo_game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643369610416-h2m3ikrp4ppq5tgnparhb54votv1bioo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ahmed.martin.bingo_game",
+            "certificate_hash": "fa3241c84857072a64945cc34ccddc24354af0ff"
+          }
+        },
+        {
+          "client_id": "643369610416-3jnbs09ncm8r345cjnmma5o9aas8isod.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKXjm-obz-SoeqcQdtatZjY9tBn19LDEo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "643369610416-3jnbs09ncm8r345cjnmma5o9aas8isod.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
